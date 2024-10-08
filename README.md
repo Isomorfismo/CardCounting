@@ -1,4 +1,4 @@
-# Card Counting Trainer
+# Card Counting Trainer ♠️♥️♣️♦️
 
 This is a simple card counting trainer implemented in Python using Pygame. The application allows users to practice their card counting skills by showing one card at a time and then verifying the user's count.
 
